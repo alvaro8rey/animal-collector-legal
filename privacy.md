@@ -4,7 +4,7 @@
 
 ## 1. Información general
 
-Animal Collector ("la app") es desarrollada por [TU NOMBRE O EMPRESA]. Esta política explica qué datos recogemos, cómo los usamos y qué derechos tienes.
+Animal Collector ("la app") es desarrollada por Álvaro Rey. Esta política explica qué datos recogemos, cómo los usamos y qué derechos tienes.
 
 ## 2. Datos que recogemos
 
